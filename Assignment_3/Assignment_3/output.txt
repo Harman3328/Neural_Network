@@ -1,0 +1,71 @@
+C:\Users\Harman\Desktop\School\COSC 3P71\Assignment_3\src>java Main 4 8 1 0.1
+Epoch: 199   Mean Squared Error: 0.06663837723252179
+Epoch: 399   Mean Squared Error: 0.06132881732008516
+Epoch: 599   Mean Squared Error: 0.04296346859279904
+Epoch: 799   Mean Squared Error: 0.01496620083199367
+Epoch: 999   Mean Squared Error: 0.0063999676677079145
+Epoch: 1199   Mean Squared Error: 0.003093743354301777
+Epoch: 1399   Mean Squared Error: 0.001923268993143027
+Epoch: 1599   Mean Squared Error: 0.0016862433391744236
+Epoch: 1799   Mean Squared Error: 0.0012762531503635337
+Epoch: 1999   Mean Squared Error: 0.0010192841724980916
+Epoch: 2199   Mean Squared Error: 8.20116013053627E-4
+Epoch: 2399   Mean Squared Error: 7.463684492185895E-4
+Epoch: 2599   Mean Squared Error: 5.926472290687274E-4
+Epoch: 2799   Mean Squared Error: 5.257205360549949E-4
+Epoch: 2999   Mean Squared Error: 5.055591490897034E-4
+Epoch: 3199   Mean Squared Error: 4.344212171845563E-4
+Epoch: 3399   Mean Squared Error: 3.7257509016017104E-4
+Epoch: 3599   Mean Squared Error: 3.617467011338572E-4
+Epoch: 3799   Mean Squared Error: 3.5249614579080087E-4
+Epoch: 3999   Mean Squared Error: 2.894835163365593E-4
+Epoch: 4199   Mean Squared Error: 2.561701973019536E-4
+Epoch: 4399   Mean Squared Error: 2.433988045151857E-4
+Epoch: 4599   Mean Squared Error: 2.771353932507519E-4
+Epoch: 4799   Mean Squared Error: 2.5541876049617047E-4
+Epoch: 4999   Mean Squared Error: 2.4381772478544654E-4
+Epoch: 5199   Mean Squared Error: 1.9995745591421294E-4
+Epoch: 5399   Mean Squared Error: 2.261388095941076E-4
+Epoch: 5599   Mean Squared Error: 1.8835364831164313E-4
+Epoch: 5799   Mean Squared Error: 1.872486538621773E-4
+Epoch: 5999   Mean Squared Error: 1.8362622260060905E-4
+Epoch: 6199   Mean Squared Error: 1.616397402641541E-4
+Epoch: 6399   Mean Squared Error: 1.626635618125162E-4
+Epoch: 6599   Mean Squared Error: 1.5348555115023477E-4
+Epoch: 6799   Mean Squared Error: 1.3775901948860368E-4
+Epoch: 6999   Mean Squared Error: 1.405201054884149E-4
+Epoch: 7199   Mean Squared Error: 1.3050885310757687E-4
+Epoch: 7399   Mean Squared Error: 1.281526011348032E-4
+Epoch: 7599   Mean Squared Error: 1.407455393097242E-4
+Epoch: 7799   Mean Squared Error: 1.3421605873946348E-4
+Epoch: 7999   Mean Squared Error: 1.295434308481508E-4
+Epoch: 8199   Mean Squared Error: 1.2684959946412608E-4
+Epoch: 8399   Mean Squared Error: 1.2092816233463039E-4
+Epoch: 8599   Mean Squared Error: 1.1558699490762257E-4
+Epoch: 8799   Mean Squared Error: 1.0699538843970156E-4
+Epoch: 8999   Mean Squared Error: 1.06132653798753E-4
+Epoch: 9199   Mean Squared Error: 1.0777581656391715E-4
+Epoch: 9399   Mean Squared Error: 9.81185042497151E-5
+Epoch: 9599   Mean Squared Error: 1.0012872215280254E-4
+Epoch: 9799   Mean Squared Error: 9.712494860511021E-5
+Epoch: 9999   Mean Squared Error: 8.888432004341924E-5
+Number of Hidden Nodes: 8
+Learning Rate: 0.1
+Mean Squared Error: 8.888432004341924E-5
+
+0  1  1  1  Outcome: 0.022687659522613663  Expected Outcome: 0
+0  1  1  0  Outcome: 0.9816539595222462  Expected Outcome: 1
+1  0  0  1  Outcome: 0.9800045978127084  Expected Outcome: 1
+0  1  1  1  Outcome: 0.022687659522613663  Expected Outcome: 0
+0  1  1  0  Outcome: 0.9816539595222462  Expected Outcome: 1
+1  0  0  1  Outcome: 0.9800045978127084  Expected Outcome: 1
+0  1  1  0  Outcome: 0.9816539595222462  Expected Outcome: 1
+1  0  0  1  Outcome: 0.9800045978127084  Expected Outcome: 1
+0  1  1  1  Outcome: 0.022687659522613663  Expected Outcome: 0
+1  0  0  1  Outcome: 0.9800045978127084  Expected Outcome: 1
+1  0  0  0  Outcome: 0.016117271211168217  Expected Outcome: 0
+0  1  1  1  Outcome: 0.022687659522613663  Expected Outcome: 0
+1  0  0  1  Outcome: 0.9800045978127084  Expected Outcome: 1
+1  0  0  1  Outcome: 0.9800045978127084  Expected Outcome: 1
+0  1  1  0  Outcome: 0.9816539595222462  Expected Outcome: 1
+1  0  0  1  Outcome: 0.9800045978127084  Expected Outcome: 1

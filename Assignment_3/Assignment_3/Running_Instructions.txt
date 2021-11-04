@@ -1,0 +1,8 @@
+Takes 4 command Line arugments
+1. Number of input nodes
+2. Number of hidden Nodes
+3. Number of output nodes
+4. learning rate
+
+Example:
+java Main 4 8 1 0.1
